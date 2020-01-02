@@ -1,1 +1,1 @@
-# Spring Data Redis using Jedis Example
+# Spring Redis
