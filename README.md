@@ -1,1 +1,1 @@
-# Spring Redis
+# Spring Redis example
